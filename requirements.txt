@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+python-telegram-bot
+python-dotenv
+numpy
